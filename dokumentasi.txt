@@ -1,0 +1,5 @@
+model:
+http://35.78.1.159:8501/{versi}/models/new_store_model:predict
+
+API email JS:
+aQii-RlSiK-_SLOkG
